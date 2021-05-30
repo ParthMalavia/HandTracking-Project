@@ -1,5 +1,5 @@
 # HandTracking-Project
-This project was for learning purpose, and made while watching a youtube tutorial
+This project was for learning purpose, and made while watching tutorials.
 
 For this files to run couple of modeules are required,
 which are given in requirements.txt (mediapipe, openCV)
